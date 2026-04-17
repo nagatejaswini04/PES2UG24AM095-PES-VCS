@@ -315,7 +315,7 @@ Each commit message clearly describes the changes made and follows best practice
 
 ## Repository Link
 
-GitHub Repository: https://github.com/SunOrangeBurger/PES2UG24AM126-pes-vcs
+GitHub Repository: https://github.com/nagatejaswini04/PES2UG24AM095-PES-VCS/tree/main
 
 ---
 
@@ -329,7 +329,7 @@ source .env
 
 Or run commands with the environment variable inline:
 ```bash
-export PES_AUTHOR="Arun Hariharan <PES2UG24AM126>" && ./pes [command]
+export PES_AUTHOR="Naga Tejaswini <PES2UG24AM095>" && ./pes [command]
 ```
 
 ---
